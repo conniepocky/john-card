@@ -17,7 +17,7 @@
     [:div.family.marla]
     [:div.family.parker]
     [:div.greeting]
-    [:div.text.instructions [:b "To Github!!"] [:p "Merry Christmas!"] [:p "From Connie!"]]
+    [:div.text.instructions [:b "To John!"] [:p "Merry Christmas!"] [:p "From Connie!"]]
 
     [:div.b.hidden.about_sam "Hello I'm an elf!"] 
     [:div.b.hidden.about_marla "Hello I'm Rudolph!"]
